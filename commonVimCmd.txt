@@ -1,0 +1,7 @@
+//tab
+:newtab filename
+gt   (go prev tab)
+gT    (go next tab)
+(numPad) gt  (go to tab #)
+
+
